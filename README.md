@@ -5,8 +5,7 @@ This is a very simple 555 timer based dual VCO.
 It fits nicely in any eurorack.
 
 Sample output: https://vanheusden.com/permshare/magical555vco-v0.2.flac
-or
-![sample](https://vanheusden.com/permshare/magical555vco-v0.2.flac "sample")
+or listen in your browser at: https://vanheusden.com/electronics/Magical555VCO/audio-player.php
 
 
 * schematics are under media/magical555vco.pdf
